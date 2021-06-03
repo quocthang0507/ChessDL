@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "chess\\Scripts\\python.exe",
+    "jupyter.jupyterServerType": "local"
+}
